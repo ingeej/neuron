@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetR10_1 Pin=R15-1
+Removed Pin From Net: NetName=NetR10_1 Pin=R15-1
+Change Component Footprint: Designator=R15 Old Footprint= New Footprint=0402 connected pad
+Added Pin To Net: NetName=V_BAT Pin=R15-1
+Added Pin To Net: NetName=NetR10_1 Pin=R15-2

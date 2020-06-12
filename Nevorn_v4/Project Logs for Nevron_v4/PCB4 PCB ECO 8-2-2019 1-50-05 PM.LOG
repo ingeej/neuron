@@ -1,0 +1,20 @@
+Added Component: Designator=H2(Magnetic con. 2 pin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H3(Magnetic con. 2 pin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H4(Magnetic con. 2 pin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H5(Magnetic con. 2 pin)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=D2 Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-2
+Added Pin To Net: NetName=D3 Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-2
+Added Pin To Net: NetName=D4 Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-2
+Added Pin To Net: NetName=D5 Pin=H5-1
+Added Pin To Net: NetName=GND Pin=H5-2
+Added Member To Class: ClassName=Nevron_v4 Member=Component H2 Magnetci con. 2 pin
+Added Member To Class: ClassName=Nevron_v4 Member=Component H3 Magnetci con. 2 pin
+Added Member To Class: ClassName=Nevron_v4 Member=Component H4 Magnetci con. 2 pin
+Added Member To Class: ClassName=Nevron_v4 Member=Component H5 Magnetci con. 2 pin

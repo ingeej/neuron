@@ -1,0 +1,5 @@
+Added Component: Designator=U2(dual_side:pad)
+Added Pin To Net: NetName=GND Pin=U2-0
+Added Pin To Net: NetName=VCC Pin=U2-1
+Added Member To Class: ClassName=2_way_splitter Member=Component U2 dual_side_pad
+Added Room: Name=2_way_splitter

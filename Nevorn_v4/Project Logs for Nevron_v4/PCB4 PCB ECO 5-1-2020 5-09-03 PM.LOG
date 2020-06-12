@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=AX1 Pin=T4-3
+Removed Pin From Net: NetName=CH_EN Pin=T4-5
+Added Pin To Net: NetName=AX1 Pin=T4-6

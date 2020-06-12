@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=R19 Old Footprint=0402 Res New Footprint=0402 connected pad
+Change Component Comment : Designator=R19 Old Comment=10K 0402 New Comment=0402 Connected Pad
+Change component parameters: Designator = "R19" ("R19"); Footprint = "0402 Res"; UniqueID = "\IRDSYYPP" ("\IRDSYYPP")

@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=D2 Pin=T4-3
+Added Pin To Net: NetName=G2 Pin=T4-5
+Added Net: Name=G2
+Added Pin To Net: NetName=S2 Pin=T4-4
+Added Net: Name=S2
+Added Room: Name=Nevron_v4

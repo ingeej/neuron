@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=R19 Old Footprint=0402 connected pad New Footprint=0402 Res
+Change Component Comment : Designator=R19 Old Comment=0402 Connected Pad New Comment=10K 0402
+Change component parameters: Designator = "R19" ("R19"); Footprint = "0402 connected pad"; UniqueID = "\XIMJWSRR" ("\XIMJWSRR")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "MCS0402-10.0K-CFCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "2614406"; VariantName = "[No Variations]"
+Added Room: Name=Nevron_v4

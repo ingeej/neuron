@@ -1,0 +1,34 @@
+Added Component: Designator=R9(0402 connected pad)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R10(0402 Res)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MCS0402-10.0K-CFCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "2614406"; VariantName = "[No Variations]"
+Added Component: Designator=R16(0402 Res)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2838474"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "A127515CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R17(0402 connected pad)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=V_BAT Pin=R9-2
+Added Pin To Net: NetName=V_BAT Pin=R10-1
+Added Pin To Net: NetName=BUCK_EN Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R16-2
+Added Pin To Net: NetName=V_CH Pin=R17-1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR11_1 Pin=U1-3
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=NetR15_1 Pin=R16-1
+Added Pin To Net: NetName=NetR15_1 Pin=U1-4
+Added Net: Name=NetR15_1
+Added Pin To Net: NetName=NetR15_2 Pin=R17-2
+Added Net: Name=NetR15_2
+Added Member To Class: ClassName=Nevron_v4 Member=Component R9 0402 Connected Pad
+Added Member To Class: ClassName=Nevron_v4 Member=Component R10 10K 0402
+Added Member To Class: ClassName=Nevron_v4 Member=Component R16 110K 0402
+Added Member To Class: ClassName=Nevron_v4 Member=Component R17 0402 Connected Pad

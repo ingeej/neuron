@@ -1,0 +1,5 @@
+Added Component: Designator=R15(0402 Res)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=V_BAT Pin=R15-1
+Added Pin To Net: NetName=NetR10_1 Pin=R15-2
+Added Member To Class: ClassName=Nevron_v4 Member=Component R15 0402 Connected Pad

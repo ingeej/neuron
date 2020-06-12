@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Users\Inge\Documents\GitHub\neuron\Nevorn_v4\PCB4.PcbDoc
+RuleKind=Clearance|RuleName=merge with traces|Scope=Board|Minimum=5.91
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

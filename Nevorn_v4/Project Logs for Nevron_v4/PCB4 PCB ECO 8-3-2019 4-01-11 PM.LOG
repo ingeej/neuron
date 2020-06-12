@@ -1,0 +1,191 @@
+Added Component: Designator=R9(0402 connected pad)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R10(0402 Res)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MCS0402-10.0K-CFCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "2614406"; VariantName = "[No Variations]"
+Added Component: Designator=R16(0402 Res)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2838474"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "A127515CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R17(0402 connected pad)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=AX1 Pin=H6-1
+Added Pin To Net: NetName=AX1 Pin=H6-1
+Added Pin To Net: NetName=AX1 Pin=R18-1
+Added Pin To Net: NetName=AX1 Pin=T4-1
+Added Pin To Net: NetName=AX1 Pin=T4-3
+Added Pin To Net: NetName=AX1 Pin=U4-7
+Added Pin To Net: NetName=AX1 Pin=U4-9
+Added Net: Name=AX1
+Added Pin To Net: NetName=BTN Pin=BUTTON1-1
+Added Pin To Net: NetName=BTN Pin=U4-19
+Added Net: Name=BTN
+Added Pin To Net: NetName=BUCK_EN Pin=R10-2
+Added Pin To Net: NetName=BUCK_EN Pin=U1-1
+Added Pin To Net: NetName=BUCK_EN Pin=U1-6
+Added Pin To Net: NetName=BUCK_EN Pin=U3-4
+Added Net: Name=BUCK_EN
+Added Pin To Net: NetName=CH_EN Pin=T1-2
+Added Pin To Net: NetName=CH_EN Pin=T1-5
+Added Pin To Net: NetName=CH_EN Pin=T2-2
+Added Pin To Net: NetName=CH_EN Pin=T2-5
+Added Pin To Net: NetName=CH_EN Pin=T3-2
+Added Pin To Net: NetName=CH_EN Pin=T3-5
+Added Pin To Net: NetName=CH_EN Pin=T4-2
+Added Pin To Net: NetName=CH_EN Pin=T4-5
+Added Pin To Net: NetName=CH_EN Pin=U4-22
+Added Net: Name=CH_EN
+Added Pin To Net: NetName=CH_VDD Pin=T3-1
+Added Pin To Net: NetName=CH_VDD Pin=U2-1
+Added Pin To Net: NetName=CH_VDD Pin=U2-2
+Added Net: Name=CH_VDD
+Added Pin To Net: NetName=D1 Pin=H1-1
+Added Pin To Net: NetName=D1 Pin=H1-1
+Added Pin To Net: NetName=D1 Pin=R1-1
+Added Pin To Net: NetName=D1 Pin=T1-1
+Added Pin To Net: NetName=D1 Pin=U4-8
+Added Net: Name=D1
+Added Pin To Net: NetName=D2 Pin=H2-1
+Added Pin To Net: NetName=D2 Pin=H2-1
+Added Pin To Net: NetName=D2 Pin=R2-1
+Added Pin To Net: NetName=D2 Pin=T1-4
+Added Pin To Net: NetName=D2 Pin=U4-6
+Added Net: Name=D2
+Added Pin To Net: NetName=D3 Pin=H3-1
+Added Pin To Net: NetName=D3 Pin=H3-1
+Added Pin To Net: NetName=D3 Pin=R3-1
+Added Pin To Net: NetName=D3 Pin=T2-1
+Added Pin To Net: NetName=D3 Pin=U4-20
+Added Net: Name=D3
+Added Pin To Net: NetName=D4 Pin=H4-1
+Added Pin To Net: NetName=D4 Pin=H4-1
+Added Pin To Net: NetName=D4 Pin=R4-1
+Added Pin To Net: NetName=D4 Pin=T2-4
+Added Pin To Net: NetName=D4 Pin=U4-18
+Added Net: Name=D4
+Added Pin To Net: NetName=D5 Pin=H5-1
+Added Pin To Net: NetName=D5 Pin=H5-1
+Added Pin To Net: NetName=D5 Pin=R5-1
+Added Pin To Net: NetName=D5 Pin=T3-4
+Added Pin To Net: NetName=D5 Pin=U4-17
+Added Net: Name=D5
+Added Pin To Net: NetName=GND Pin=BUTTON1-2
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=H1-2
+Added Pin To Net: NetName=GND Pin=H2-2
+Added Pin To Net: NetName=GND Pin=H3-2
+Added Pin To Net: NetName=GND Pin=H4-2
+Added Pin To Net: NetName=GND Pin=H5-2
+Added Pin To Net: NetName=GND Pin=H6-2
+Added Pin To Net: NetName=GND Pin=H7-1
+Added Pin To Net: NetName=GND Pin=H7-1
+Added Pin To Net: NetName=GND Pin=L1-VSS
+Added Pin To Net: NetName=GND Pin=L2-VSS
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R14-2
+Added Pin To Net: NetName=GND Pin=R16-2
+Added Pin To Net: NetName=GND Pin=R18-2
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2-11
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-6
+Added Pin To Net: NetName=GND Pin=U3-7
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Net: Name=GND
+Added Pin To Net: NetName=LED_SIG Pin=R8-1
+Added Pin To Net: NetName=LED_SIG Pin=U4-12
+Added Net: Name=LED_SIG
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=R13-2
+Added Pin To Net: NetName=NetC4_2 Pin=R14-1
+Added Pin To Net: NetName=NetC4_2 Pin=U3-3
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetL1_DIN Pin=L1-DIN
+Added Pin To Net: NetName=NetL1_DIN Pin=R8-2
+Added Net: Name=NetL1_DIN
+Added Pin To Net: NetName=NetL1_DOUT Pin=L1-DOUT
+Added Pin To Net: NetName=NetL1_DOUT Pin=L2-DIN
+Added Net: Name=NetL1_DOUT
+Added Pin To Net: NetName=NetL3_1 Pin=L3-1
+Added Pin To Net: NetName=NetL3_1 Pin=U3-1
+Added Net: Name=NetL3_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=U2-6
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=U2-8
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR11_2 Pin=U1-3
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetR15_1 Pin=R17-2
+Added Net: Name=NetR15_1
+Added Pin To Net: NetName=NetR15_2 Pin=R16-1
+Added Pin To Net: NetName=NetR15_2 Pin=U1-4
+Added Net: Name=NetR15_2
+Added Pin To Net: NetName=STAT1 Pin=U2-3
+Added Pin To Net: NetName=STAT1 Pin=U4-10
+Added Net: Name=STAT1
+Added Pin To Net: NetName=STAT2 Pin=U2-4
+Added Net: Name=STAT2
+Added Pin To Net: NetName=UPDI Pin=U4-23
+Added Pin To Net: NetName=UPDI Pin=U5-1
+Added Net: Name=UPDI
+Added Pin To Net: NetName=V_BAT Pin=C1-2
+Added Pin To Net: NetName=V_BAT Pin=C3-1
+Added Pin To Net: NetName=V_BAT Pin=C7-1
+Added Pin To Net: NetName=V_BAT Pin=H7-2
+Added Pin To Net: NetName=V_BAT Pin=H7-2
+Added Pin To Net: NetName=V_BAT Pin=R9-2
+Added Pin To Net: NetName=V_BAT Pin=R10-1
+Added Pin To Net: NetName=V_BAT Pin=U1-5
+Added Pin To Net: NetName=V_BAT Pin=U2-9
+Added Pin To Net: NetName=V_BAT Pin=U2-10
+Added Pin To Net: NetName=V_BAT Pin=U3-5
+Added Net: Name=V_BAT
+Added Pin To Net: NetName=V_CH Pin=D1-A
+Added Pin To Net: NetName=V_CH Pin=R17-1
+Added Pin To Net: NetName=V_CH Pin=T1-3
+Added Pin To Net: NetName=V_CH Pin=T1-6
+Added Pin To Net: NetName=V_CH Pin=T2-3
+Added Pin To Net: NetName=V_CH Pin=T2-6
+Added Pin To Net: NetName=V_CH Pin=T3-3
+Added Pin To Net: NetName=V_CH Pin=T3-6
+Added Pin To Net: NetName=V_CH Pin=T4-4
+Added Pin To Net: NetName=V_CH Pin=T4-6
+Added Net: Name=V_CH
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=VCC Pin=C4-1
+Added Pin To Net: NetName=VCC Pin=C5-1
+Added Pin To Net: NetName=VCC Pin=C6-1
+Added Pin To Net: NetName=VCC Pin=D1-K
+Added Pin To Net: NetName=VCC Pin=L1-VDD
+Added Pin To Net: NetName=VCC Pin=L2-VDD
+Added Pin To Net: NetName=VCC Pin=L3-2
+Added Pin To Net: NetName=VCC Pin=R13-1
+Added Pin To Net: NetName=VCC Pin=U4-4
+Added Pin To Net: NetName=VCC Pin=U5-2
+Added Net: Name=VCC
+Added Member To Class: ClassName=Nevron_v4 Member=Component R9 0402 Connected Pad
+Added Member To Class: ClassName=Nevron_v4 Member=Component R10 10K 0402
+Added Member To Class: ClassName=Nevron_v4 Member=Component R16 110K 0402
+Added Member To Class: ClassName=Nevron_v4 Member=Component R17 0402 Connected Pad

@@ -1,0 +1,10 @@
+Change Component Library : Designator=BUTTON1 Old Library=Nevron_v1.SchLib New Library=Nevron_v4.SchLib
+Change Component Library : Designator=C1 Old Library=Nevron_v2.SchLib New Library=Nevron_v4.SchLib
+Change Component Library : Designator=C2 Old Library=Nevron_v2.SchLib New Library=Nevron_v4.SchLib
+Change Component Library : Designator=C4 Old Library=Nevron_v2.SchLib New Library=Nevron_v4.SchLib
+Change Component Library : Designator=C5 Old Library=Nevron_v2.SchLib New Library=Nevron_v4.SchLib
+Change Component Library : Designator=C6 Old Library=Nevron_v2.SchLib New Library=Nevron_v4.SchLib
+Change Component Library : Designator=C7 Old Library=Nevron_v2.SchLib New Library=Nevron_v4.SchLib
+Change Component Library : Designator=L3 Old Library=Nevron_v2.SchLib New Library=Nevron_v4.SchLib
+Change Component Library : Designator=R13 Old Library=Nevron_v2.SchLib New Library=Nevron_v4.SchLib
+Change Component Library : Designator=R14 Old Library=Nevron_v2.SchLib New Library=Nevron_v4.SchLib
