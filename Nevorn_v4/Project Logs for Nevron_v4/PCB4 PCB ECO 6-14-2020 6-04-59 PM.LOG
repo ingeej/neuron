@@ -1,0 +1,11 @@
+Added Component: Designator=R9(0402 connected pad)
+Added Component: Designator=R17(0402 connected pad)
+Added Pin To Net: NetName=V_BAT Pin=R9-1
+Added Pin To Net: NetName=V_BAT Pin=R9-2
+Added Pin To Net: NetName=V_BAT Pin=R11-1
+Added Pin To Net: NetName=V_CH Pin=R15-1
+Added Pin To Net: NetName=V_CH Pin=R17-1
+Added Pin To Net: NetName=V_CH Pin=R17-2
+Added Member To Class: ClassName=Nevron_v4 Member=Component R9 0402 Connected Pad
+Added Member To Class: ClassName=Nevron_v4 Member=Component R17 0402 Connected Pad
+Added Room: Name=Nevron_v4
