@@ -11,89 +11,14 @@ Generating : GND
 
 
 Used DCodes :
-    D13
-    D22
-    D26
-    D59
-    D60
-    D61
-    D62
-    D63
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : PCB4.GM15
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D96
-    D97
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : PCB4.GM13
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D96
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 4
-      File : PCB4.GM4
-
-    Adding Layer      : Mechanical 4
-
-
-Used DCodes :
-    D93
-    D95
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : PCB4.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D35
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D48
-    D49
-    D52
-    D53
-    D54
-    D55
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
+    D12
+    D15
+    D18
+    D31
+    D67
+    D68
+    D69
+    D70
 *************************************************************
 
 *************************************************************
@@ -106,56 +31,8 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D16
-    D21
-    D22
-    D23
-    D24
-    D25
-    D29
-    D30
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 3
-      File : PCB4.GM3
-
-    Adding Layer      : Mechanical 3
-
-
-Used DCodes :
-    D58
-    D94
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : PCB4.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
     D15
     D16
-    D17
     D18
     D19
     D20
@@ -163,47 +40,42 @@ Used DCodes :
     D22
     D23
     D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
+    D33
+    D34
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
 *************************************************************
 
 *************************************************************
-Generating : VCC
-      File : PCB4.G2
+Generating : Mechanical 1
+      File : PCB4.GM1
 
-    Adding Layer      : VCC
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Mechanical 1
 
 
 Used DCodes :
-    D22
-    D26
-    D59
-    D60
-    D61
-    D62
-    D63
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : PCB4.GBO
+Generating : Top Overlay
+      File : PCB4.GTO
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Top Overlay
 
 
 Used DCodes :
     D10
+    D11
     D12
     D13
-    D93
+    D14
 *************************************************************
 
 *************************************************************
@@ -218,10 +90,6 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D33
-    D34
-    D35
-    D36
     D37
     D38
     D39
@@ -241,90 +109,6 @@ Used DCodes :
     D53
     D54
     D55
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : PCB4.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : PCB4.GPT
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 16
-      File : PCB4.GM16
-
-    Adding Layer      : Mechanical 16
-
-
-Used DCodes :
-    D97
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : PCB4.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
     D56
     D57
     D58
@@ -332,41 +116,18 @@ Used DCodes :
     D60
     D61
     D62
-    D63
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : PCB4.GBP
+Generating : Mechanical 3
+      File : PCB4.GM3
 
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Mechanical 3
 
 
 Used DCodes :
-    D16
-    D21
-    D22
-    D23
-    D24
-    D25
-    D29
-    D30
-    D64
-    D65
     D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
+    D91
 *************************************************************
 
 *************************************************************
@@ -382,22 +143,18 @@ Used DCodes :
     D10
     D12
     D13
+    D15
     D16
+    D18
+    D19
+    D20
     D21
     D22
     D23
     D24
-    D25
-    D26
-    D29
-    D30
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
+    D31
+    D33
+    D34
     D63
     D64
     D65
@@ -415,19 +172,249 @@ Used DCodes :
     D77
     D78
     D79
+    D80
+    D81
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : PCB4.GTO
+Generating : Bottom Solder
+      File : PCB4.GBS
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D37
+    D38
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D53
+    D55
+    D56
+    D59
+    D60
+    D61
+    D62
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : PCB4.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D33
+    D34
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : PCB4.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+*************************************************************
+
+*************************************************************
+Generating : VCC
+      File : PCB4.G2
+
+    Adding Layer      : VCC
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D18
+    D31
+    D67
+    D68
+    D69
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : PCB4.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : PCB4.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D92
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : PCB4.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : PCB4.GBO
+
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
     D10
-    D11
     D12
     D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : PCB4.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D92
+    D93
 *************************************************************
 
